@@ -47,8 +47,8 @@ charadex.sheet = {
     rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Legendary', 'Seasonal'],
     species: ['All', 'TAKEMON', 'NPC/Mascot', 'Bunny'],
     prefixes: ['All', 'TKMN', 'NPC', 'MYO', 'EMYO'],
-    traitTypes: ['All', 'Horns', 'Ears', 'Tentacle Tails', 'Demon Tails', 'Hair Tentacles', 'Optional Traits', 'Seasonal Traits']
-    transtactionType: ['New Entry', 'Puchase', 'Resale', 'Trade', 'Gift / Raffle', 'Design Added', 'Event']
+    traitTypes: ['All', 'Horns', 'Ears', 'Tentacle Tails', 'Demon Tails', 'Hair Tentacles', 'Optional Traits', 'Seasonal Traits'],
+    transactionType: ['New Entry', 'Puchase', 'Resale', 'Trade', 'Gift / Raffle', 'Design Added', 'Event']
 
   }
 
