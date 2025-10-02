@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Takemon",
-  url: "casthecorpse.github.io",
+  url: "takemon.uk",
   description: `Masterlist for the Takemon CS.`
 }
 
